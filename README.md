@@ -8,4 +8,4 @@ I’m a Master’s student in Computer Science at Ariel University.
 🌱 **Always learning, always improving**
 
 
-![Check out my LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/Tomer_Shor?theme=natural)
+![Check out my LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/Tomer_Shor?theme=dark&bgColor=282828)
