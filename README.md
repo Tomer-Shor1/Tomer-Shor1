@@ -3,8 +3,11 @@
 I’m a Master’s student in Computer Science at Ariel University. 
 
 🧠 **Areas of interest**: Algorithms, AI and algorithmic design
+
 🛠️ **Languages**: Python, Java and C++
+
 📚 **Currently working on** academic research and personal projects  
+
 🌱 **Always learning, always improving**
 
 
